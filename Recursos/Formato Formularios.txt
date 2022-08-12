@@ -1,0 +1,33 @@
+Caption: Menu
+Height 400
+Width 350
+
+Caption: Requerimiento
+Height 500
+Width 500
+
+Boton 1
+Height 20
+Left 50
+Top 20
+Width 100
+
+Boton 2
+Height 20
+Left 200
+Top 20
+Width 100
+
+Boton 3
+Height 20
+Left 350
+Top 20
+Width 100
+
+Table
+Height 350
+Left 50
+Top 60
+Width 400
+
+Fuente: Cambria
